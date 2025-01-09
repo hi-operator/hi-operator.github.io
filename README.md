@@ -79,3 +79,47 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 By using the App, you agree to the terms of this Privacy Policy.
 
+# Terms of Service
+
+Welcome to our AI Voice-Based Phone Operator app ("the App"). By using the App, you agree to the following terms and conditions:
+
+## 1. **Acceptance of Terms**
+
+By accessing or using the App, you agree to comply with and be bound by these Terms of Service ("Terms"). If you do not agree with these Terms, please do not use the App.
+
+## 2. **Data Collection**
+
+We collect the following types of information to provide and improve the App:
+
+- **Email Address**: For account creation and communication.
+- **Name**: To personalize your experience.
+- **Contacts**: To enable calling features.
+- **Usage Information**: To analyze and enhance the App’s performance.
+
+By using the App, you consent to the collection and use of this information in accordance with our Privacy Policy.
+
+## 3. **Data Deletion**
+
+We are committed to providing you with the ability to delete your data from our servers. This feature is under development and will be made available in a future update. Once available, you will be notified and provided with instructions on how to request data deletion.
+
+## 4. **Usage Restrictions**
+
+You agree not to:
+
+- Use the App for any unlawful or harmful purpose.
+- Attempt to access or interfere with the App’s infrastructure.
+
+## 5. **Disclaimer**
+
+The App is provided "as is" without warranties of any kind, either express or implied. We do not guarantee uninterrupted or error-free operation of the App.
+
+## 6. **Changes to Terms**
+
+We may update these Terms from time to time. Changes will be effective upon posting, and your continued use of the App constitutes acceptance of the updated Terms.
+
+## 7. **Contact Us**
+
+If you have any questions or concerns about these Terms, please contact us at wavesine4@gmail.com
+
+By using the App, you acknowledge that you have read, understood, and agree to these Terms of Service.
+
